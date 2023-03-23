@@ -4,7 +4,7 @@ Hi, im Pavel Ivanov
 - IOS Developer for almost 2 years
 - Currently in Moscow, Russia (but open for travels)
 
-### Stak:
+### Stack:
 ```swift
 import UIKit
 import SwiftUI
