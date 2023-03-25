@@ -13,10 +13,6 @@ import Alamofire
 import RxSwift
 import RxCocoa
 import WidgetKit
-
-protocol ConfigIOSDev {
-  func wantBigSalary() -> Bool
-}
 ```
 
 ### How to reach me:
