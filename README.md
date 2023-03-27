@@ -19,3 +19,5 @@ import WidgetKit
 - Telegram: [@realpaulive](http://t.me/realpaulive")
 - Mail: realpaulive@gmail.com
 - LinkedIn www.linkedin.com/in/realpaulive
+
+### Exchage Rate App - https://apps.apple.com/us/app/exchange-rates-ru-widget/id6446700352
