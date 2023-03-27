@@ -20,5 +20,5 @@ import WidgetKit
 - Mail: realpaulive@gmail.com
 - LinkedIn www.linkedin.com/in/realpaulive
 
-### Check out Exchage Rate
+### Check out Exchage Rate app:
 - [Link to AppStore](https://apps.apple.com/us/app/exchange-rates-ru-widget/id6446700352)
