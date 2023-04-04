@@ -1,7 +1,6 @@
 # Realpulive
 
 Hi, im Pavel Ivanov
-- IOS Developer for almost 2 years
 - Currently in Moscow, Russia (but open for travels)
 
 ### Tech stack:
