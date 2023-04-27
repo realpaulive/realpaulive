@@ -1,7 +1,7 @@
 # Realpulive
 
 Hi, im Pavel Ivanov
-- Currently in Moscow, Russia (but open for travels)
+- Currently in Moscow, Russia (open for travels)
 
 ### Tech stack:
 ```swift
